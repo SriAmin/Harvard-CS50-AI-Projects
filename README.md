@@ -1,5 +1,7 @@
 # Harvard-CS50-AI-Projects
-These are the project files submitted for Harvard's CS50 Introduction to Artificial Intelligence
+These are the project files submitted for Harvard's CS50 Introduction to Artificial Intelligence.
+All these resources and projects is thanks to Harvard University for providing this free online course. The following is a link to the webpage of their free online course and projects.
+https://cs50.harvard.edu/ai/2020/
 
 ## Degrees
 This uses breadth-first search to find the shortest link between two actors within the database. Similar to [Six Degrees of Kevin Bacon](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)
